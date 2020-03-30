@@ -1,6 +1,4 @@
-# M07mm3D
-MacOS Dell Latitude E5440 
-
+# Catalina 10.15.4 Dell Latitude E5440 ( EFI )
 
 Tested & working :
 - GPU Intel HD 4400
